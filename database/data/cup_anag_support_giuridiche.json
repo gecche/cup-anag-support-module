@@ -1,0 +1,278 @@
+[
+  {
+    "id": 1,
+    "codice": "1",
+    "descrizione": "Società in accomandita per azioni",
+    "estera": 0
+  },
+  {
+    "id": 2,
+    "codice": "10",
+    "descrizione": "Altri enti ed istituti con personalità giuridica",
+    "estera": 1
+  },
+  {
+    "id": 3,
+    "codice": "11",
+    "descrizione": "Consorzi senza personalità giuridica",
+    "estera": 0
+  },
+  {
+    "id": 4,
+    "codice": "12",
+    "descrizione": "Associazioni non riconosciute e comitati",
+    "estera": 1
+  },
+  {
+    "id": 5,
+    "codice": "13",
+    "descrizione": "Altre organizzazioni di persone o di beni senza personalità giuridica (escluse le comunioni)",
+    "estera": 1
+  },
+  {
+    "id": 6,
+    "codice": "14",
+    "descrizione": "Enti pubblici economici",
+    "estera": 0
+  },
+  {
+    "id": 7,
+    "codice": "15",
+    "descrizione": "Enti pubblici non economici",
+    "estera": 0
+  },
+  {
+    "id": 8,
+    "codice": "16",
+    "descrizione": "Casse mutue e fondi di previdenza, assistenza, pensioni o simili con o senza personalità giuridica con o senza personalità giuridica",
+    "estera": 0
+  },
+  {
+    "id": 9,
+    "codice": "18",
+    "descrizione": "Enti ospedalieri",
+    "estera": 0
+  },
+  {
+    "id": 10,
+    "codice": "19",
+    "descrizione": "Enti ed istituti di previdenza e di assistenza sociale",
+    "estera": 0
+  },
+  {
+    "id": 11,
+    "codice": "20",
+    "descrizione": "Aziende autonome di cura, soggiorno e turismo",
+    "estera": 0
+  },
+  {
+    "id": 12,
+    "codice": "21",
+    "descrizione": "Aziende regionali, provinciali, comunali e loro consorzi",
+    "estera": 0
+  },
+  {
+    "id": 13,
+    "codice": "22",
+    "descrizione": "Società, organizzazioni ed enti costituiti all’estero non altrimenti classificabili con sede dell’amministrazione od oggetto principale in Italia",
+    "estera": 0
+  },
+  {
+    "id": 14,
+    "codice": "23",
+    "descrizione": "Società semplici ed equiparate ai sensi dell’art. 5, comma 3, lett. b), del TUIR",
+    "estera": 0
+  },
+  {
+    "id": 15,
+    "codice": "24",
+    "descrizione": "Società in nome collettivo ed equiparate ai sensi dell’art. 5, comma 3, lett. b), del TUIR",
+    "estera": 0
+  },
+  {
+    "id": 16,
+    "codice": "25",
+    "descrizione": "Società in accomandita semplice",
+    "estera": 0
+  },
+  {
+    "id": 17,
+    "codice": "26",
+    "descrizione": "Società di armamento",
+    "estera": 0
+  },
+  {
+    "id": 18,
+    "codice": "27",
+    "descrizione": "Associazione fra artisti e professionisti",
+    "estera": 1
+  },
+  {
+    "id": 19,
+    "codice": "28",
+    "descrizione": "Aziende coniugali",
+    "estera": 0
+  },
+  {
+    "id": 20,
+    "codice": "29",
+    "descrizione": "GEIE ( Gruppi europei di interesse economico)",
+    "estera": 0
+  },
+  {
+    "id": 21,
+    "codice": "3",
+    "descrizione": "Società per azioni",
+    "estera": 0
+  },
+  {
+    "id": 22,
+    "codice": "30",
+    "descrizione": "Società semplici, irregolari e di fatto",
+    "estera": 1
+  },
+  {
+    "id": 23,
+    "codice": "31",
+    "descrizione": "Società in nome collettivo",
+    "estera": 1
+  },
+  {
+    "id": 24,
+    "codice": "34",
+    "descrizione": "Associazioni fra professionisti",
+    "estera": 1
+  },
+  {
+    "id": 25,
+    "codice": "36",
+    "descrizione": "Società a responsabilità limitata",
+    "estera": 1
+  },
+  {
+    "id": 26,
+    "codice": "38",
+    "descrizione": "Consorzi",
+    "estera": 1
+  },
+  {
+    "id": 27,
+    "codice": "39",
+    "descrizione": "Altri enti ed istituti",
+    "estera": 1
+  },
+  {
+    "id": 28,
+    "codice": "4",
+    "descrizione": "Società cooperative e loro consorzi iscritti nei registri prefettizi e nello schedario della cooperazione nello schedario della cooperazione",
+    "estera": 0
+  },
+  {
+    "id": 29,
+    "codice": "40",
+    "descrizione": "Associazioni riconosciute, non riconosciute e di fatto",
+    "estera": 1
+  },
+  {
+    "id": 30,
+    "codice": "41",
+    "descrizione": "Fondazioni",
+    "estera": 1
+  },
+  {
+    "id": 31,
+    "codice": "42",
+    "descrizione": "Opere pie e società di mutuo soccorso",
+    "estera": 1
+  },
+  {
+    "id": 32,
+    "codice": "43",
+    "descrizione": "Altre organizzazioni di persone e di beni",
+    "estera": 1
+  },
+  {
+    "id": 33,
+    "codice": "5",
+    "descrizione": "Altre società cooperative",
+    "estera": 1
+  },
+  {
+    "id": 34,
+    "codice": "50",
+    "descrizione": "Società per azioni, aziende speciali e consorzi di cui agli artt. 31, 113, 114, 115 e 116 del D.Lgs. 18 agosto 2000, n. 267 (Testo Unico delle leggi sull’ordinamento degli enti locali)",
+    "estera": 0
+  },
+  {
+    "id": 35,
+    "codice": "51",
+    "descrizione": "Condomìni",
+    "estera": 0
+  },
+  {
+    "id": 36,
+    "codice": "52",
+    "descrizione": "Depositi I.V.A.",
+    "estera": 0
+  },
+  {
+    "id": 37,
+    "codice": "53",
+    "descrizione": "Società sportive dilettantistiche costituite in società di capitali senza fine di lucro",
+    "estera": 0
+  },
+  {
+    "id": 38,
+    "codice": "6",
+    "descrizione": "Mutue assicuratrici",
+    "estera": 0
+  },
+  {
+    "id": 39,
+    "codice": "66",
+    "descrizione": "Reg.Imprese PD n.03598010282   REA n.322165   Cap.Soc.Int.Versato Euro 100.000,00 Dir.Coord.Confagricoltura Padova",
+    "estera": 0
+  },
+  {
+    "id": 40,
+    "codice": "7",
+    "descrizione": "Consorzi con personalità giuridica",
+    "estera": 0
+  },
+  {
+    "id": 41,
+    "codice": "77",
+    "descrizione": "Sede Amministrativa Via Battaglia 71/C int.4 35020 Albignasego (PD)",
+    "estera": 0
+  },
+  {
+    "id": 42,
+    "codice": "8",
+    "descrizione": "Associazioni riconosciute",
+    "estera": 1
+  },
+  {
+    "id": 43,
+    "codice": "01",
+    "descrizione": "Società Semplice",
+    "estera": 0
+  },
+  {
+    "id": 44,
+    "codice": "08",
+    "descrizione": "Ditta Individuale",
+    "estera": 0
+  },
+  {
+    "id": 45,
+    "codice": "97",
+    "descrizione": "Socio Unico",
+    "estera": 0
+  },
+  {
+    "id": 47,
+    "codice": "777",
+    "descrizione": "Società a Responsabilita' Limitata Convenzionata con CAA Confagricoltura SrL",
+    "estera": 0
+  }
+]

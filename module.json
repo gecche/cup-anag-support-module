@@ -1,0 +1,11 @@
+{
+    "name": "CupAnagSupport",
+    "alias": "cup-anag-support",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\CupAnagSupport\\Providers\\CupAnagSupportServiceProvider"
+    ],
+    "files": []
+}

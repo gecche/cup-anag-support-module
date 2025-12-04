@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "codice": "1",
+    "descrizione": "Coniugato"
+  },
+  {
+    "id": 2,
+    "codice": "2",
+    "descrizione": "Sposata"
+  },
+  {
+    "id": 3,
+    "codice": "3",
+    "descrizione": "Divorziato/a"
+  },
+  {
+    "id": 4,
+    "codice": "5",
+    "descrizione": "Nubile"
+  },
+  {
+    "id": 5,
+    "codice": "6",
+    "descrizione": "Celibe"
+  },
+  {
+    "id": 6,
+    "codice": "7",
+    "descrizione": "Separato/a"
+  }
+]

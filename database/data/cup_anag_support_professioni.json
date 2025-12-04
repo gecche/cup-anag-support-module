@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "codice": "1",
+    "descrizione": "Medico"
+  },
+  {
+    "id": 2,
+    "codice": "2",
+    "descrizione": "Impiegato"
+  },
+  {
+    "id": 3,
+    "codice": "4",
+    "descrizione": "Imprenditore"
+  },
+  {
+    "id": 4,
+    "codice": "5",
+    "descrizione": "Operaio"
+  },
+  {
+    "id": 5,
+    "codice": "6",
+    "descrizione": "Disoccupato"
+  },
+  {
+    "id": 6,
+    "codice": "7",
+    "descrizione": "Ingegnere"
+  },
+  {
+    "id": 7,
+    "codice": "8",
+    "descrizione": "Architetto"
+  },
+  {
+    "id": 8,
+    "codice": "9",
+    "descrizione": "Avvocato"
+  },
+  {
+    "id": 9,
+    "codice": "10",
+    "descrizione": "Agricoltore"
+  }
+]
