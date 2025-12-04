@@ -2,10 +2,10 @@
 
 
 return [
-    'name' => 'area|aree',
+    'name' => 'professione|professioni',
     'fields' => [
-        'nome_it' => 'nome (IT)',
         'codice' => 'codice',
+        'descrizione' => 'descrizione',
     ],
     'relations' => [
 

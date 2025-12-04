@@ -30,19 +30,19 @@ class CupAnagSupportDatabaseSeeder extends Seeder
 
         $entities = [
             [
-                'table' => 'CupAnagSupport_attivita',
+                'table' => 'cup_anag_support_attivita',
                 'model' => CupAnagSupportAttivita::class,
             ],
             [
-                'table' => 'CupAnagSupport_professioni',
+                'table' => 'cup_anag_support_professioni',
                 'model' => CupAnagSupportProfessione::class,
             ],
             [
-                'table' => 'CupAnagSupport_stati_civili',
+                'table' => 'cup_anag_support_stati_civili',
                 'model' => CupAnagSupportStatoCivile::class,
             ],
             [
-                'table' => 'CupAnagSupport_nature_giuridiche',
+                'table' => 'cup_anag_support_nature_giuridiche',
                 'model' => CupAnagSupportNaturaGiuridica::class,
             ],
         ];

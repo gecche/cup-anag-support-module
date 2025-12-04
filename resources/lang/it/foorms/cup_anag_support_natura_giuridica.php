@@ -2,10 +2,11 @@
 
 
 return [
-    'name' => 'area geopolitica|aree geopolitiche',
+    'name' => 'natura giuridica|nature giuridiche',
     'fields' => [
-        'nome_it' => 'nome (IT)',
         'codice' => 'codice',
+        'descrizione' => 'descrizione',
+        'estera' => 'estera'
     ],
     'relations' => [
 

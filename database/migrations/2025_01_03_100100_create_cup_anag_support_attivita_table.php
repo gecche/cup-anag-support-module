@@ -13,7 +13,7 @@ return new class extends Migration {
      */
     public function up()
     {
-        Schema::create('unico_attivita', function (Blueprint $table) {
+        Schema::create('cup_anag_support_attivita', function (Blueprint $table) {
             $table->id();
             $table->string('codice')->unique();
             $table->string('descrizione');
@@ -30,7 +30,7 @@ return new class extends Migration {
      */
     public function down()
     {
-        Schema::drop('unico_attivita');
+        Schema::drop('cup_anag_support_attivita');
     }
 
 };

@@ -13,7 +13,7 @@ return new class extends Migration {
      */
     public function up()
     {
-        Schema::create('unico_nature_giuridiche', function (Blueprint $table) {
+        Schema::create('cup_anag_support_nature_giuridiche', function (Blueprint $table) {
             $table->id();
             $table->string('codice')->unique();
             $table->string('descrizione');
@@ -31,7 +31,7 @@ return new class extends Migration {
      */
     public function down()
     {
-        Schema::drop('unico_nature_giuridiche');
+        Schema::drop('cup_anag_support_nature_giuridiche');
     }
 
 };
